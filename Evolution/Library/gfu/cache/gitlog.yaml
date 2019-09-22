@@ -13,9 +13,1725 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-09-18T19:03:50.826+03:00
-  initializedAtString: 2019-09-18T18:59:33.298+03:00
+  lastUpdatedAtString: 2019-09-22T12:18:17.460+03:00
+  initializedAtString: 2019-09-22T12:18:17.460+03:00
   log:
+  - commitID: ed7d2be48a0e5e8dd2e9f5f4ed87654ec6a27c0f
+    mergeA: 
+    mergeB: 
+    authorName: SweetMilk
+    authorEmail: nicusor.laptedulce@gmail.com
+    commitEmail: nicusor.laptedulce@gmail.com
+    commitName: SweetMilk
+    summary: CristiSasi
+    description: 
+    timeString: 2019-09-18T19:22:56.000+03:00
+    commitTimeString: 2019-09-18T19:22:56.000+03:00
+    changes:
+    - path: Evolution\Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Assembly-CSharp.csproj
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Cristi.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Cristi.meta
+      projectPath: Assets\Cristi.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Cristi\LohCristi.cs
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Cristi\LohCristi.cs
+      projectPath: Assets\Cristi\LohCristi.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Cristi\LohCristi.cs.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Cristi\LohCristi.cs.meta
+      projectPath: Assets\Cristi\LohCristi.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Evolution.sln
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Evolution.sln
+      projectPath: Evolution.sln
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\CrashedAssetImports.txt
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\CrashedAssetImports.txt
+      projectPath: Library\CrashedAssetImports.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\EditorInstance.json
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.Timeline.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.Timeline.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEditor.UI.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEditor.UI.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEngine.UI.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEngine.UI.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\StateCache\Hierarchy\f160a9-mainStage.json
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\StateCache\Hierarchy\f160a9-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\f160a9-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\assetDatabase3
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\3f\3f01ba944e6df5041b0d55e3fe167239
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\3f\3f01ba944e6df5041b0d55e3fe167239
+      projectPath: Library\metadata\3f\3f01ba944e6df5041b0d55e3fe167239
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\3f\3f01ba944e6df5041b0d55e3fe167239.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\3f\3f01ba944e6df5041b0d55e3fe167239.info
+      projectPath: Library\metadata\3f\3f01ba944e6df5041b0d55e3fe167239.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\aa\aa50bf4cc331abe49bda0e6062bdc2d4
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\aa\aa50bf4cc331abe49bda0e6062bdc2d4
+      projectPath: Library\metadata\aa\aa50bf4cc331abe49bda0e6062bdc2d4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\aa\aa50bf4cc331abe49bda0e6062bdc2d4.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\aa\aa50bf4cc331abe49bda0e6062bdc2d4.info
+      projectPath: Library\metadata\aa\aa50bf4cc331abe49bda0e6062bdc2d4.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-0b43eae0f1e2a124c9e9fbc32d31940a
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-0b43eae0f1e2a124c9e9fbc32d31940a
+      projectPath: Temp\UnityTempFile-0b43eae0f1e2a124c9e9fbc32d31940a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-134c6979b51c7ea47b3c337449ef51a1
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-134c6979b51c7ea47b3c337449ef51a1
+      projectPath: Temp\UnityTempFile-134c6979b51c7ea47b3c337449ef51a1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-415ab4b3f6e8c5c48b68b5d6be5994e5
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-415ab4b3f6e8c5c48b68b5d6be5994e5
+      projectPath: Temp\UnityTempFile-415ab4b3f6e8c5c48b68b5d6be5994e5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-68e1546dfd6cf7b4195d0108d5686cb9
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-68e1546dfd6cf7b4195d0108d5686cb9
+      projectPath: Temp\UnityTempFile-68e1546dfd6cf7b4195d0108d5686cb9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-6cce4bf4ee327814286100090a5bca0a
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-6cce4bf4ee327814286100090a5bca0a
+      projectPath: Temp\UnityTempFile-6cce4bf4ee327814286100090a5bca0a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-7d23081b7edaa304aba61c4b61cdc6d1
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-7d23081b7edaa304aba61c4b61cdc6d1
+      projectPath: Temp\UnityTempFile-7d23081b7edaa304aba61c4b61cdc6d1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-80d40a5b7bf057340bb5b020370ffd11
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-80d40a5b7bf057340bb5b020370ffd11
+      projectPath: Temp\UnityTempFile-80d40a5b7bf057340bb5b020370ffd11
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-8a5e6cba3a0a1d54c9b7544a1064bca5
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-8a5e6cba3a0a1d54c9b7544a1064bca5
+      projectPath: Temp\UnityTempFile-8a5e6cba3a0a1d54c9b7544a1064bca5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-9b32168ab3c8b3246a7f7d2bfcc77926
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-9b32168ab3c8b3246a7f7d2bfcc77926
+      projectPath: Temp\UnityTempFile-9b32168ab3c8b3246a7f7d2bfcc77926
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-a6a34e6bacbb9684f9877ee03baf6574
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-a6a34e6bacbb9684f9877ee03baf6574
+      projectPath: Temp\UnityTempFile-a6a34e6bacbb9684f9877ee03baf6574
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-b38049fab8db5a04e86326648a990f66
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-b38049fab8db5a04e86326648a990f66
+      projectPath: Temp\UnityTempFile-b38049fab8db5a04e86326648a990f66
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-b9c59c8a0b973cf4fafe5886ecab8957
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-b9c59c8a0b973cf4fafe5886ecab8957
+      projectPath: Temp\UnityTempFile-b9c59c8a0b973cf4fafe5886ecab8957
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-c144d0a57f84f6f4a8de9aa0a692f39a
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-c144d0a57f84f6f4a8de9aa0a692f39a
+      projectPath: Temp\UnityTempFile-c144d0a57f84f6f4a8de9aa0a692f39a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-cd6195ef9a71ff74cb911c02d8061be0
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-cd6195ef9a71ff74cb911c02d8061be0
+      projectPath: Temp\UnityTempFile-cd6195ef9a71ff74cb911c02d8061be0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-da748ab0e4bc7af449d2a0b5bf2d096b
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-da748ab0e4bc7af449d2a0b5bf2d096b
+      projectPath: Temp\UnityTempFile-da748ab0e4bc7af449d2a0b5bf2d096b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Temp\UnityTempFile-e96b66387d2b6e04f936f26d37ef970a
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Temp\UnityTempFile-e96b66387d2b6e04f936f26d37ef970a
+      projectPath: Temp\UnityTempFile-e96b66387d2b6e04f936f26d37ef970a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: b3ebb67c2c1bfaed425f2411bf8165860fbf84c3
+    mergeA: 
+    mergeB: 
+    authorName: letshackthis
+    authorEmail: cristianciugureanu@gmail.com
+    commitEmail: cristianciugureanu@gmail.com
+    commitName: letshackthis
+    summary: AS
+    description: AS
+    timeString: 2019-09-18T19:04:19.000+03:00
+    commitTimeString: 2019-09-18T19:04:19.000+03:00
+    changes:
+    - path: Evolution\Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Evolution.sln
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Evolution.sln
+      projectPath: Evolution.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\AssetImportState
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\AssetImportState
+      projectPath: Library\AssetImportState
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\EditorUserBuildSettings.asset
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.Timeline.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.Timeline.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEditor.UI.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEditor.UI.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\ScriptAssemblies\UnityEngine.UI.pdb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ScriptAssemblies\UnityEngine.UI.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\0\07994f5fb6db6cfe116ca9355059f23e.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\0\07994f5fb6db6cfe116ca9355059f23e.bin
+      projectPath: Library\ShaderCache\0\07994f5fb6db6cfe116ca9355059f23e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\1\125775fd1682def6d01d5989654c9326.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\1\125775fd1682def6d01d5989654c9326.bin
+      projectPath: Library\ShaderCache\1\125775fd1682def6d01d5989654c9326.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\4\4e2104673026a0410648c9d35ef9a20e.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\4\4e2104673026a0410648c9d35ef9a20e.bin
+      projectPath: Library\ShaderCache\4\4e2104673026a0410648c9d35ef9a20e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\4\4f6831f2aa795194eada5ed2d5b969db.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\4\4f6831f2aa795194eada5ed2d5b969db.bin
+      projectPath: Library\ShaderCache\4\4f6831f2aa795194eada5ed2d5b969db.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\5\55fd1573aaecc02817dc6d6ad1e849e4.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\5\55fd1573aaecc02817dc6d6ad1e849e4.bin
+      projectPath: Library\ShaderCache\5\55fd1573aaecc02817dc6d6ad1e849e4.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\5\598251f39910c3408a8de1435587c495.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\5\598251f39910c3408a8de1435587c495.bin
+      projectPath: Library\ShaderCache\5\598251f39910c3408a8de1435587c495.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\6\65951bb5d2abb8e5df97b82e2ba0e205.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\6\65951bb5d2abb8e5df97b82e2ba0e205.bin
+      projectPath: Library\ShaderCache\6\65951bb5d2abb8e5df97b82e2ba0e205.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\7\71968ff7b409ed0bf95ff0396a2cfe81.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\7\71968ff7b409ed0bf95ff0396a2cfe81.bin
+      projectPath: Library\ShaderCache\7\71968ff7b409ed0bf95ff0396a2cfe81.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\7\7235ddc113fc7bb91322b8b8b53d2180.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\7\7235ddc113fc7bb91322b8b8b53d2180.bin
+      projectPath: Library\ShaderCache\7\7235ddc113fc7bb91322b8b8b53d2180.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\7\75b2c7dc331458617ef1ff28dfd11905.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\7\75b2c7dc331458617ef1ff28dfd11905.bin
+      projectPath: Library\ShaderCache\7\75b2c7dc331458617ef1ff28dfd11905.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\7\75fd6b78be0786abe3618baf0949f9a1.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\7\75fd6b78be0786abe3618baf0949f9a1.bin
+      projectPath: Library\ShaderCache\7\75fd6b78be0786abe3618baf0949f9a1.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\7\770ea6679482562bed0e68c64f48d5c0.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\7\770ea6679482562bed0e68c64f48d5c0.bin
+      projectPath: Library\ShaderCache\7\770ea6679482562bed0e68c64f48d5c0.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\9\964b105e586e6a3e6fe872c6f703e12e.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\9\964b105e586e6a3e6fe872c6f703e12e.bin
+      projectPath: Library\ShaderCache\9\964b105e586e6a3e6fe872c6f703e12e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\9\977d3eaf0881f9a012eb74292546a04b.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\9\977d3eaf0881f9a012eb74292546a04b.bin
+      projectPath: Library\ShaderCache\9\977d3eaf0881f9a012eb74292546a04b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\a\a3857abf4aee487a21a15412184b0e14.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\a\a3857abf4aee487a21a15412184b0e14.bin
+      projectPath: Library\ShaderCache\a\a3857abf4aee487a21a15412184b0e14.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\a\a70e935e18e28eb6a1a4f66aab515684.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\a\a70e935e18e28eb6a1a4f66aab515684.bin
+      projectPath: Library\ShaderCache\a\a70e935e18e28eb6a1a4f66aab515684.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\b\b0b75ee06b7123706ccd71667fac50e4.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\b\b0b75ee06b7123706ccd71667fac50e4.bin
+      projectPath: Library\ShaderCache\b\b0b75ee06b7123706ccd71667fac50e4.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\c\c34326228ed2523483f05877b1acd807.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\c\c34326228ed2523483f05877b1acd807.bin
+      projectPath: Library\ShaderCache\c\c34326228ed2523483f05877b1acd807.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\c\c62d958bdec5c4bf10ed6376515d42b0.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\c\c62d958bdec5c4bf10ed6376515d42b0.bin
+      projectPath: Library\ShaderCache\c\c62d958bdec5c4bf10ed6376515d42b0.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\c\ce1fbe6c6bac415edc8661e72ba6258b.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\c\ce1fbe6c6bac415edc8661e72ba6258b.bin
+      projectPath: Library\ShaderCache\c\ce1fbe6c6bac415edc8661e72ba6258b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\d\d25eb5721df68e434bd9227d5576734e.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\d\d25eb5721df68e434bd9227d5576734e.bin
+      projectPath: Library\ShaderCache\d\d25eb5721df68e434bd9227d5576734e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\e\ed161905ba9a6a949f59be136b4ab91d.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\e\ed161905ba9a6a949f59be136b4ab91d.bin
+      projectPath: Library\ShaderCache\e\ed161905ba9a6a949f59be136b4ab91d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\f\f48f003d1081f69a156979c943995150.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\f\f48f003d1081f69a156979c943995150.bin
+      projectPath: Library\ShaderCache\f\f48f003d1081f69a156979c943995150.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\ShaderCache\f\fc0bee604e1ce348e518d41ba8c271f8.bin
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\ShaderCache\f\fc0bee604e1ce348e518d41ba8c271f8.bin
+      projectPath: Library\ShaderCache\f\fc0bee604e1ce348e518d41ba8c271f8.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\assetDatabase3
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+      projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\23\23c8bee69b591054094d32918f98facd
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\23\23c8bee69b591054094d32918f98facd
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+      projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\6b\6b6e247983164f44d82fdaadd84bb058
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\6b\6b6e247983164f44d82fdaadd84bb058
+      projectPath: Library\metadata\6b\6b6e247983164f44d82fdaadd84bb058
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\6b\6b6e247983164f44d82fdaadd84bb058.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\6b\6b6e247983164f44d82fdaadd84bb058.info
+      projectPath: Library\metadata\6b\6b6e247983164f44d82fdaadd84bb058.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+      projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+      projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\87\877ef3585573ce44eab899298be23158
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\87\877ef3585573ce44eab899298be23158
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\cb\cbe5206e5e31ba84c9d58c8885c51dfc
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\cb\cbe5206e5e31ba84c9d58c8885c51dfc
+      projectPath: Library\metadata\cb\cbe5206e5e31ba84c9d58c8885c51dfc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\cb\cbe5206e5e31ba84c9d58c8885c51dfc.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\cb\cbe5206e5e31ba84c9d58c8885c51dfc.info
+      projectPath: Library\metadata\cb\cbe5206e5e31ba84c9d58c8885c51dfc.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Evolution\Unity.CollabProxy.Editor.csproj
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Unity.CollabProxy.Editor.csproj
+      projectPath: Unity.CollabProxy.Editor.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Unity.Rider.Editor.csproj
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Unity.Rider.Editor.csproj
+      projectPath: Unity.Rider.Editor.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Unity.TextMeshPro.Editor.csproj
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Unity.TextMeshPro.Editor.csproj
+      projectPath: Unity.TextMeshPro.Editor.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Unity.TextMeshPro.csproj
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Unity.TextMeshPro.csproj
+      projectPath: Unity.TextMeshPro.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\Unity.VSCode.Editor.csproj
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\Unity.VSCode.Editor.csproj
+      projectPath: Unity.VSCode.Editor.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\UnityEditor.TestRunner.csproj
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\UnityEditor.TestRunner.csproj
+      projectPath: UnityEditor.TestRunner.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Evolution\UnityEngine.TestRunner.csproj
+      fullPath: C:\Users\gh0st\Documents\GitHub\Evoluation\Evolution\UnityEngine.TestRunner.csproj
+      projectPath: UnityEngine.TestRunner.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: e0fd1de4123d258f343b20966eb7aa10d16fafc5
     mergeA: 
     mergeB: 
